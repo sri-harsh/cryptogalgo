@@ -1,1 +1,1 @@
-# Implementation of famous cryptography algorithms
+# Implementation of some cryptography algorithms
